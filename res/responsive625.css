@@ -1,0 +1,86 @@
+.hm_logo
+{
+	width: 100%;
+	margin: 0 0 0 0%;
+	
+
+	
+	
+	float: left;
+	
+	
+
+}
+.hm_logo h1 {
+	font-size: 30px;
+	padding-top: 0.2%;
+	
+	padding-bottom: 0.3%;
+	
+	font-weight: lighter;
+	color: #085394;
+}
+.search
+{
+	width: 100%;
+	margin: 0 0 0 0;
+	padding-top: 1.0%;
+	padding-bottom: 0.5%;
+	
+	padding-left: 0%;
+	float: left;
+	display: inline-table;
+	
+}
+
+ div.search input[type=text] 
+ {
+
+    width: 40%;
+    
+    margin-left: 13%;
+    font-style: italic;
+    float: left;
+     border: 1px solid #dddddd;
+     border-radius: 5px;
+     -moz-border-radius: 5px solid #dddddd;
+    -khtml-border-radius: 5px solid #dddddd ;
+    -webkit-border-radius: 5px solid #dddddd;
+        font-family:'Calib';
+        font-size:100%; 
+        padding: 2% 0% 2% 0%;
+           } 
+div.txt 
+    {
+    	padding-top: 0.5%;
+	padding-bottom: 0.5%;
+	margin-top: 1%;
+	float: left;
+	padding-left: 13%;
+      display: inline-block;
+    
+    	
+    	
+    }
+
+        div.greybox1 input[type="checkbox"]
+   {
+   	margin-left: 2%;
+   }
+   select[name="combo3"]
+{
+  margin: 1% 0 2% 2%;
+  border:1px solid #cccccc; 
+border-radius:2px;
+}
+
+
+span[name="copy"]
+{
+	width: 86%;
+
+}
+select[name="combo2"]
+{
+	margin-left: 0%;
+}

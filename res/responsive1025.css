@@ -1,0 +1,77 @@
+ .search1
+{
+  
+
+  padding-left: 0%;
+  
+  
+}
+div.profile
+   {
+   	float: left;
+	display: inline-block;
+   	padding-left:2%;
+   	margin-top: -3%;
+   }
+
+div.elem0
+   {	
+   	width: 27%;
+   	min-width: 10%;
+   margin-top: 0.3%;
+   padding-right: 26%;
+   	float: left;
+   	display: inline-table;
+   }
+   div.elem1
+   {	
+   	min-width: 10%;
+   	width: 31.5%;
+   	margin-top: 0.3%;
+   	float: left;
+   	display: inline-table;
+   }
+   div.elem2
+   {	
+   	
+   	width: 31.5%;
+   	min-width: 10%;
+   	float: left;
+   	  padding-right: 33%;
+   	display: inline-table;
+   }
+   div.elem3
+   {	
+
+   	width: 23%;
+   	min-width: 10%;
+   	float: left;
+   	display: inline-table;
+   }
+
+   div.greybox1 input[type="checkbox"]
+   {
+   	margin-left: 0%;
+   }
+   select[name="combo3"]
+{
+  margin: 1% 0 2% 0%;
+  border:1px solid #cccccc; 
+border-radius:2px;
+}
+
+div.greybox1 input[type=submit] 
+{
+  border: 1px solid #085394;
+      border-radius: 4px;
+     float: right;
+    margin-right: 3%;
+      -moz-border-radius: 5px solid #085394;
+    -khtml-border-radius: 5px solid #085394 ;
+    -webkit-border-radius: 5px solid #085394;
+      background-color: #085394;
+      color: white;
+    
+
+      padding: 0.5% 0.7% 0.5% 0.7%;
+}

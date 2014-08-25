@@ -1,0 +1,43 @@
+select[name="combo1"]
+{
+  margin: 1% 65% 2% 0.8%;
+  border:1px solid #cccccc; 
+border-radius:2px;
+}
+   div.greybox1 input[type="checkbox"]
+   {
+   		margin-left: 2%;
+   }
+   select[name="combo3"]
+{
+  margin: 1% 65% 2% 2%;
+  border:1px solid #cccccc; 
+border-radius:2px;
+}
+.greybox1
+{
+  width: 100%;
+  
+  padding-bottom: 10%;
+
+  background-color:#dddddd;
+
+}
+div.greybox1 input[type=submit] 
+{
+  border: 1px solid #085394;
+      border-radius: 4px;
+     float: left;
+     display: inline-block;
+    margin-left: 2%;
+      -moz-border-radius: 5px solid #085394;
+    -khtml-border-radius: 5px solid #085394 ;
+    -webkit-border-radius: 5px solid #085394;
+      background-color: #085394;
+      color: white;
+    }
+
+    .opinions span
+    {
+    	margin-right: 10%;
+    }

@@ -1,0 +1,204 @@
+.hm_logo
+{
+	width: 5%;
+	margin: 0 0 0 0;
+	padding-top: 0.5%;
+	padding-bottom: 0.5%;
+	padding-left:13%;
+	
+	float: left;
+	
+	
+
+}
+.search
+{
+	width: 48.9%;
+	margin: 0 0 0 0;
+	padding-top: 3.0%;
+	padding-bottom: 0.5%;
+	
+	
+
+	float: right;
+	
+	
+}
+
+ div.search input[type=text] 
+ {
+
+ 		width: 40%;
+ 		
+ 		margin-left: 17%;
+ 		font-style: italic;
+ 		float: left;
+ 		 border: 1px solid #dddddd;
+ 		 border-radius: 5px;
+ 		 -moz-border-radius: 5px solid #dddddd;
+		-khtml-border-radius: 5px solid #dddddd ;
+		-webkit-border-radius: 5px solid #dddddd;
+       	font-family:'Calib';
+       	font-size:100%; 
+       	padding: 2% 0% 2% 0%;
+       	   } 
+
+
+   div.search input[type=submit]{
+   		width: 12%;
+   		
+ 		
+   		border: 1px solid #085394;
+   		border-radius: 4px;
+   		float: left;
+   		-moz-border-radius: 5px solid #085394;
+		-khtml-border-radius: 5px solid #085394 ;
+		-webkit-border-radius: 5px solid #085394;
+   		background-color: #085394;
+   		color: white;
+   		margin-left: 4%;
+   		margin-top: 2%;
+   		padding: 1% 0.5% 1% 0.5%;
+   		
+   		
+   }
+
+    div.greybox1 input[type="checkbox"]
+   {
+   	margin-left: 6%;
+   }
+   select[name="combo3"]
+{
+  margin: 1% 0 2% 6%;
+  border:1px solid #cccccc; 
+border-radius:2px;
+}
+
+    div.txt 
+    {
+    	padding-top: 0.5%;
+	padding-bottom: 0.5%;
+	margin-top: 1%;
+	float: right;
+      display: inline-block;
+    
+	margin-right: 12.5%;
+    	
+    	
+    }
+    div.txt p
+    {
+    	color: #085394;
+    	float: left;
+    	margin-left: 0%;
+
+    }
+    div.txt a
+    {
+    	margin-top: 10%;
+    	float: left;
+    }
+
+
+  .big1
+{
+  float: left;
+  display: inline-block;
+  width: 100%;
+  min-width: 170px;
+border:2px solid #dddddd; 
+border-radius:4px;
+margin-bottom: 5%;
+
+}
+.big2
+{
+   float: left;
+  display: inline-block;
+  width: 100%;
+  min-width: 160px;
+
+margin-bottom: 5%;
+
+}
+
+.editor
+{
+  width: 100%;
+  height: 30%;
+  margin: 0 0 4% 0%;
+   background-color:#dddddd;
+  
+}
+
+.readbox
+{
+width: 100%;
+  min-width: 200px;
+  margin: 0 0 4% 0%;
+   background-color:white;
+  
+  border: 2px solid #dddddd;
+      border-radius: 2px;
+  }
+
+
+   div.profile
+   {
+   	float: left;
+	width: 100%;
+   	padding-left:13%;
+   	margin-top: 0%;
+   }
+   div.list
+   {width: 74%;
+   	float: left;
+   	padding-left: 13%;
+   }
+
+   div.elem0
+   {	
+   	width: 30%;
+   	
+   margin-top: 0.3%;
+   	float: left;
+   	display: inline-table;
+   }
+   div.elem1
+   {	
+   
+   	width: 39%;
+   	margin-top: 0.3%;
+   	float: left;
+   	display: inline-table;
+
+   }
+   div.elem2
+   {	
+   	
+   	width: 35.5%;
+   	min-width: 10%;
+   	float: left;
+   	display: inline-table;
+   }
+   div.elem3
+   {	
+
+   	width: 30%;
+   	min-width: 10%;
+   	float: left;
+   	display: inline-table;
+   }
+ .icon
+ {
+ 	float: left;
+ 	display: inline-table;
+ }
+ .attr
+ {
+ 	margin-top: -0.2%;
+ 	padding-left: 5%;
+ 	float: left;
+ 	display: inline-table;
+
+ }
